@@ -10,4 +10,6 @@ The objective of the SOC (Security Operations Center) Automation Lab is to devel
 * Digital Ocean: Cloud hosting services providing the infrastructure for the SOC system.<br/>
 * Windows VM: For ensuring coverage and monitoring in Windows environments.<br/>
 
+# Representation of the SOC Automation Lab through images
+![Vanditfinalpng](https://github.com/user-attachments/assets/01797bf6-a142-4326-823f-3248fe80ee34)
 
